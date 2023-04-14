@@ -1,4 +1,6 @@
 # FitnessRecommender
+<img src="https://github.com/ErikFantomex/FitnessRecommender/blob/main/reco.png" alt="banner"/>
+
 
 Un recomendador de ejercicios es un sistema que utiliza algoritmos de recomendación para proporcionar sugerencias personalizadas de ejercicios de gimnasio a los usuarios. Este tipo de sistema puede ser diseñado para tener en cuenta diversos factores, como el nivel de experiencia del usuario, los objetivos de acondicionamiento físico, la disponibilidad de equipo en el gimnasio y las preferencias personales del usuario.
 
